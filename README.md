@@ -3,9 +3,7 @@
 # Hi, I'm Indrani B 👋  
 ### Data Science Student | NLP Enthusiast | Machine Learning Explorer  
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&size=18&pause=1000&color=3B30FFE6&vCenter=true&width=435&lines=Exploring+the+Art+and+Science+of+Data;Crafting+Scalable+Machine+Learning+Solutions" alt="Typing SVG" />
-</a>
+
 
 </div>
 
