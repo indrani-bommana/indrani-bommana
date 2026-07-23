@@ -15,7 +15,7 @@
 
 </div>
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering (Data Science)** at **Rajeev Gandhi Memorial College of Engineering and Technology (2022–2026)**  
+- 🎓 Pursued **B.Tech in Computer Science Engineering (Data Science)** at **Rajeev Gandhi Memorial College of Engineering and Technology (2022–2026)**  
 - 💡 Passionate about **AI/ML, NLP, and Automation Tools**  
 - 🔭 Currently exploring **System Design** and **Cloud Technologies**
 
